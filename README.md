@@ -1,5 +1,4 @@
-<php>
-{
+`{
   "lang": "ES",
   "name": "Español",
   "translator": "Art3mys",
@@ -896,5 +895,4 @@
       "no_access_skin": "¡Sin acceso!"
     }
   }
-}
-</php>
+}`
