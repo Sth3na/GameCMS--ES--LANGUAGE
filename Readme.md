@@ -1,4 +1,4 @@
-
+{
   "lang": "ES",
   "name": "Español",
   "translator": "Art3mys",
